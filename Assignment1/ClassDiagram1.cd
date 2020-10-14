@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StringCalculator.Expression">
+    <Position X="2.75" Y="0.5" Width="1.75" />
+    <Members>
+      <Method Name="Expression" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAEAABAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StringCalculator.Lexer">
+    <Position X="5.25" Y="0.5" Width="2.5" />
+    <Members>
+      <Method Name="Lexer" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAQAAAAAAAAAAAAAAABAAAAABAAAAAAAgAAA=</HashCode>
+      <FileName>Lexer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StringCalculator.Parser">
+    <Position X="8.25" Y="0.5" Width="1.75" />
+    <Members>
+      <Method Name="Parser" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>kEAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAABCAAEA=</HashCode>
+      <FileName>Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StringCalculator.PartExpression">
+    <Position X="2.75" Y="3" Width="1.75" />
+    <Members>
+      <Method Name="PartExpression" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAACAA=</HashCode>
+      <FileName>PartExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StringCalculator.PreviousAnswer">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>PreviousAnswer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StringCalculator.Program">
+    <Position X="10.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StringCalculator.Token">
+    <Position X="5.25" Y="3" Width="1.75" />
+    <Members>
+      <Method Name="Token" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAACAAAABAAAAAAAAA=</HashCode>
+      <FileName>Token.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
