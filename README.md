@@ -9,7 +9,7 @@ Remembers last answer in a variable called ans.
 
 ex)
 
- input: 5 + 2 * -3 + (12.4 - 7.6) * 10 / 2
-output: 23
- input: ans + 2
+ input: 5 + 2 * -3 + (12.4 - 7.6) * 10 / 2  
+output: 23  
+ input: ans + 2  
 output: 25
