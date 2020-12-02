@@ -1,4 +1,4 @@
-# Assignment-1 - String-Calculator
+# String-Calculator
 
 An assignment for SODV2202 Object Oriented Programming
 
