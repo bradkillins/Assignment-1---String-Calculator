@@ -1,6 +1,7 @@
 # String-Calculator
 
-An assignment for SODV2202 Object Oriented Programming
+An assignment for SODV2202 Object Oriented Programming  
+Built using C# and WinForms
 
 A calculator that a user can enter an expression as a string.
 Preforms addition, subtraction, multiplication, and division. 
